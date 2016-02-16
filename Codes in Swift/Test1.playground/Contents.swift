@@ -2,5 +2,5 @@
 
 import Cocoa
 
-var str = "Hello,this is a test codes in Swift."
+var str = "Hello,this is a test code in Swift."
 print(str)
