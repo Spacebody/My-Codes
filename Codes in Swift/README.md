@@ -1,2 +1,2 @@
-#This is some Swift files for learning Swift.
+#This is some files for learning Swift.
 Just some simple codes. I am learning Swift.
